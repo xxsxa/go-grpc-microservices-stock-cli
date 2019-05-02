@@ -1,0 +1,9 @@
+{
+  "description": "Miew",
+  "weight": 550,
+  "containers": [
+    { "customer_id": "x0001", "user_id": "user001", "origin": "Manchester, United Kingdom" },
+    { "customer_id": "x0002", "user_id": "user002", "origin": "Songkhla, Thailand" }
+  ],
+  "vessel_id": "vessel001"
+}
